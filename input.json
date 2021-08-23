@@ -1,0 +1,48 @@
+{
+  "friday": {
+    "version": "1.0.0",
+    "installation": "local"
+  },
+  "meta": {
+    "timestamp": 1623450227
+  },
+  "command": {
+    "lang": "en-en",
+    "content": "play the real slim shady by eminem on spotify",
+    "category": "PLAY_SONG",
+    "ner_items": [
+      {
+        "entity_group": "PER",
+        "score": 0.8345288832982382,
+        "word": "eminem",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.7278988832982382,
+        "word": "spotify",
+        "start": 38,
+        "end": 45
+      }
+    ]
+  },
+  "context": {
+    "interaction": {
+      "type": "VOICE"
+    },
+    "device": {
+      "id": "e3be81dfa06032dc0ba8ba1b0503825c",
+      "name": "Julius' MacBook Pro"
+    },
+    "room": {
+      "id": "173fe6b594212d8ef1e14a2dd6511b3a",
+      "name": "Bedroom",
+      "floor": {
+        "id": "7515875808ef6219fa6fd725e2105588",
+        "name": "Ground Floor"
+      }
+    },
+    "payload": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "friday": {
+    "version": "1.0.0",
+    "installation": "local"
+  },
+  "meta": {
+    "timestamp": 1623450227
+  },
+  "configuration": {
+    "state" : "FRIDAY.INIT",
+    "data" : null
+  },
+  "context": {
+    "interaction": {
+      "type": "VOICE"
+    },
+    "device": {
+      "id": "e3be81dfa06032dc0ba8ba1b0503825c",
+      "name": "Julius' MacBook Pro"
+    },
+    "room": {
+      "id": "173fe6b594212d8ef1e14a2dd6511b3a",
+      "name": "Bedroom",
+      "floor": {
+        "id": "7515875808ef6219fa6fd725e2105588",
+        "name": "Ground Floor"
+      }
+    },
+    "payload": null
+  }
+}
